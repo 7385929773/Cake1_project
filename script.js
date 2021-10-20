@@ -6,7 +6,6 @@ let layer5 = document.getElementById("layer5");
 let candle = document.getElementById("candle");
 let layer = 0;
 let total = 0;
-
 function addChocolate(){
     var l11 = document.getElementById("l1");
     document.getElementById("chocolateBill").innerHTML = l11.innerText;
